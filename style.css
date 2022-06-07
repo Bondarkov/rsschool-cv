@@ -1,2 +1,2 @@
 body {padding: 10px;}
-p:lang(en) q {quotes: "\201C" "\201D";}
+q:lang(en) {quotes: "\201C" "\201D";}
