@@ -1,1 +1,1 @@
-https://Bondarkov.github.io/rsschool-cv/
+https://Sergey Bondarkov.github.io/rsschool-cv/
