@@ -24,7 +24,7 @@
 					<li>Email: <a href="">serd09091991@gmail.com</a></li>
 					<li>Github: <a href="">Bondarkov</a></li>
 					<li>Telegram: <a href="">@Bondarkov</a></li>
-					<li>Discord: <a href="">sergey bondarkov</a></li>
+					<li>Discord: <a href="">sergey_bondarkov</a></li>
 				</ul>
 			</div>
 			<div class="content_summary">
